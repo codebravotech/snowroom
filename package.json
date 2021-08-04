@@ -32,7 +32,7 @@
     "react-slick": "^0.23.1",
     "redux": "^4.0.0",
     "redux-first-router": "0.0.16-next",
-    "tar": "^4.4.8",
+    "tar": "^4.4.15",
     "webpack-cli": "^3.0.8"
   },
   "devDependencies": {
